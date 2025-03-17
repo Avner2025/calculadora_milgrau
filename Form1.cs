@@ -34,8 +34,6 @@ namespace calculadora_milgrau
 
         }
 
-
-
         private void botao0_Click(object sender, EventArgs e)
         {
             tela.Text = tela.Text + "0";
